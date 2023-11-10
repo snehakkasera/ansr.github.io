@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANSR Lab</title>
+    <description>The Advanced Networked Systems Research (ANSR) lab at the &lt;a href=&quot;http://www.utah.edu&quot;&gt;University of Utah&lt;/a&gt; is working on technologies, protocols and applications encompassing mobile and pervasive systems and wireless networks, security, privacy, and reliability, Internet of Things, crowdsourcing, dynamic spectrum access, network resource management, network measurements and models, and social network applications.
+</description>
+    <link>http://ansr.cs.utah.edu/</link>
+    <atom:link href="http://ansr.cs.utah.edu/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Mar 2022 13:10:40 -0600</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2022 13:10:40 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+  </channel>
+</rss>
